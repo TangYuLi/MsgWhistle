@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MsgWhistle</string>
+    <string name="title">短信举报</string>
+    <string name="number">举报号码：</string>
+    <string name="numBtn">从短信收件箱举报</string>
+    <string name="edit1">请复制粘贴或手动输入举报号码</string>
+    <string name="content">举报内容：</string>
+    <string name="edit2">请复制粘贴或手动输入举报内容</string>
+    <string name="text1">还可以输入</string>
+    <string name="text2">字</string>
+    <string name="handup">提交举报</string>
+    <string name="tab02">这是第二个标签页！</string>
+    <string name="tab03">这是第三个标签页！</string>
+    <string name="tab04">这是第四个标签页！</string>
+</resources>
